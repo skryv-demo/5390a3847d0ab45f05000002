@@ -57,34 +57,65 @@
                 "diastolische_bloeddruk_mmhg": 120
             },
             "hba1c": {
-                "datum_van_bepaling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)"
+                "datum_van_bepaling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "hba1c_": 20,
+                "aantal_bepalingen_van_hba1c_in_het_voorbije_kalenderjaar": 3
             },
-            "insulinedosis_iedag": 20
+            "insulinedosis_iedag": 20,
+            "gemiddeld_aantal_glycemiemetingen_per_dag": 1,
+            "aantal_opnames_voor_ernstige_diabetische_ketoacidose_tijdens_de_12_maanden_die_de_laatste_consultatie_voorafgingen": 1,
+            "aantal_gekende_episodes_van_hypoglycemie_tijdens_de_3_maanden_die_de_laatste_consultatie_voorafgingen": 1,
+            "aantal_consultaties_in_het_diabetescentrum_tijdens_het_afgelopen_kalenderjaar": 1
         },
         "screenings": {
             "coeliakie": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Gebeurde screening naar coeliakie?": true
+                },
+                "datum_van_vaststelling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "indien_ja,_was_het_resultaat_positief": true,
+                "wordt_de_patient_behandeld_voor_coeliakie": true
             },
             "schildklierimmuniteit": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Gebeurde screening naar schildklierauto-immuniteit?": true
+                },
+                "datum_van_vaststelling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "indien_ja,_was_het_resultaat_positief": true
             },
             "hypo_of_hyperthyreoidie": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Wordt de patient behandeld voor hypo- of hyperthyreoidie?": true
+                }
             },
             "epilepsie": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Wordt de patient behandeld voor epilepsie?": true
+                }
             },
             "retinopathie": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Gebeurde screening naar retinopathie?": true
+                },
+                "datum_van_vaststelling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "indien_ja,_was_het_resultaat_positief": true
             },
             "nefropathie": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Gebeurde screening naar nefropathie?": true
+                },
+                "datum_van_vaststelling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "indien_ja,_was_het_resultaat_positief": true
             },
             "bloedlipiden": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Gebeurde bepaling van bloedlipiden?": true
+                }
             },
             "neuropathie": {
-                "selectedChoices": {}
+                "selectedChoices": {
+                    "Gebeurde screening naar neuropathie?": true
+                }
             }
         }
     }
