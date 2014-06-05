@@ -1,1 +1,91 @@
-{}
+{
+    "algemeen": {
+        "creatiedatum_van_klinische_file": "Thu Jun 05 2014 00:00:00 GMT+0200 (CEST)",
+        "jaar_van_datacollectie": 2013
+    },
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Vrouw"
+        },
+        "overlijden": {
+            "selectedChoices": {}
+        },
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "geboortedatum": "Wed Oct 02 2002 00:00:00 GMT+0200 (CEST)",
+        "datum_van_de_eerste_insulinetoediening": "Tue May 07 2013 00:00:00 GMT+0200 (CEST)",
+        "patient_niss": 2100226383,
+        "naam": "Vandoorne",
+        "voornaam": "Maria",
+        "arrondissement": null
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {
+                    "Zijn er taalproblemen die de communicatie bemoeilijken?": true
+                },
+                "zo_ja,_met_de_ouders": true
+            },
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Individueel samengestelde mengsels toegediend 's morgens en 's avonds met occasioneel een extra toediening van snelle/ultrasnelle insuline"
+            },
+            "datum_van_de_meest_recente_consultatie": "Thu Dec 05 2013 00:00:00 GMT+0100 (CET)",
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false,
+            "kerngezin": false,
+            "andere_medicatie": "Neen"
+        },
+        "metingen": {
+            "lengte": {
+                "datum_van_bepaling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "lengte_cm": 120
+            },
+            "gewicht": {
+                "datum_van_bepaling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "gewicht_kg": 30
+            },
+            "bloeddruk": {
+                "datum_van_bepaling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)",
+                "systolische_bloeddruk_mmhg": 140,
+                "diastolische_bloeddruk_mmhg": 120
+            },
+            "hba1c": {
+                "datum_van_bepaling": "Wed Dec 11 2013 00:00:00 GMT+0100 (CET)"
+            },
+            "insulinedosis_iedag": 20
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
